@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BrideAndGroom</string>
+    <string name="app_id">1850685215199812</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="age">Age</string>
+    <string name="register">Register</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="mywed">My Wedding</string>
+    <string name="login_here">Login Here</string>
+    <string name="skip_login">Skip Login</string>
+
+    <array name="categories">
+        <item>Catering</item>
+        <item>Photography</item>
+        <item>Hall/Venue</item>
+        <item>Music</item>
+        <item>Florist and Decor</item>
+        <item>Jewellery</item>
+        <item>Travel</item>
+        <item>Beauty Packages</item>
+        <item>Purohit</item>
+        <item>Accomodation</item>
+    </array>
+</resources>

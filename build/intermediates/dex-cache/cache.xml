@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/eavanshi/AndroidStudioProjects/BrideAndGrome/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/eavanshi/AndroidStudioProjects/BrideAndGrome/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cffed471ad608301db4ac7f3f5196d4ba244d86e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eavanshi/.android/build-cache/85cb27a3c1ca2861501ade308c94b12e73a39396/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/eavanshi/AndroidStudioProjects/BrideAndGrome/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a30e0b942ed3a4e575862fdf344acf6037e94455/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eavanshi/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/eavanshi/AndroidStudioProjects/BrideAndGrome/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_a2cfa7f01a8591ff7f3df4402d7038b80d03e171/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eavanshi/AndroidStudioProjects/BrideAndGrome/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fa6f4a1e9081fa0389df46cf204baf0499a70ad">
+        <dex dex="/home/eavanshi/AndroidStudioProjects/BrideAndGrome/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_89a3b42763f4390a2b504739b4d5863cbc3c2d9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eavanshi/.android/build-cache/4221d3607e0910b81df28f17dda27a366bdcef30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/eavanshi/AndroidStudioProjects/BrideAndGrome/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf3bdc6dddc24c469772cd2d5890f10b886fad93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eavanshi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/eavanshi/AndroidStudioProjects/BrideAndGrome/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c54e80147c728df78feffb41ecf4e979f0f1ac8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eavanshi/.android/build-cache/840a03b08eb4ff0c9668761bb9c51747bf3df340/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/eavanshi/AndroidStudioProjects/BrideAndGrome/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99a59ac3bab75fefef35b5a01d5a7f20d6a6606a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eavanshi/.android/build-cache/881dadb8fa7a147665a1488c290eba1856208212/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="/home/eavanshi/AndroidStudioProjects/BrideAndGrome/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4f35358d5660308212b04805c2bec64801f56fc/classes.dex" />
+    </item>
+
+</items>
